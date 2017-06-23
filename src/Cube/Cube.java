@@ -1,3 +1,5 @@
+package Cube;
+
 public class Cube {
 
   int length = 10;

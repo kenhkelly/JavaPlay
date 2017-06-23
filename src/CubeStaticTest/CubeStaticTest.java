@@ -1,3 +1,5 @@
+package CubeStaticTest;
+
 // Class and Object initialization showing the Object Oriented concepts in Java
 class Cube {
 

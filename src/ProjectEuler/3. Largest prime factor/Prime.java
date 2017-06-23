@@ -1,3 +1,5 @@
+package ProjectEuler;
+
 public class Prime {
 
   public static int target = 13195;
@@ -7,7 +9,7 @@ public class Prime {
 
     for (int i = 2; i <= target; i++) {
       if (target % i == 0) {
-        bool isPrime = true;
+        boolean isPrime = true;
         for (int j = 2; i <= i; j++) {
           if (i % j == 0) {
             
